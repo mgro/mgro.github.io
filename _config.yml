@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr."
+title                    : "Matthias Gröschel"
 title_separator          : "-"
 name                     : &name "Matthias Gröschel"
 description              : &description "Research Fellow at Harvard Medical School"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthias Gröschel"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Research Fellow in Biomedical Informatics at Harvard Medical School"
   location         : "Boston, MA"
   employer         :
@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _readings
   - scope:
       path: ""
-      type: talks
+      type: readings
     values:
-      layout: talk
+      layout: readings
       author_profile: true
       share: true
 
