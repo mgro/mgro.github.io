@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthias Groschel"
+title                    : "Dr."
 title_separator          : "-"
 name                     : &name "Matthias Gröschel"
 description              : &description "Research Fellow at Harvard Medical School"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthias Groschel"
+  name             : "Matthias Gröschel"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Fellow in Biomedical Informatics at Harvard Medical School"
   location         : "Boston, MA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=groschel%20mi&utm_source=gquery&utm_medium=search"
   googlescholar    : "https://scholar.google.com/citations?user=WxREeGIAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "matthias_groeschel [at] hms.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
