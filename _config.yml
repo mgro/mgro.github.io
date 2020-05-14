@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Matthias Gröschel"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Research Fellow in Biomedical Informatics at Harvard Medical School"
   location         : "Boston, MA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=groschel%20mi&utm_source=gquery&utm_medium=search"
   googlescholar    : "https://scholar.google.com/citations?user=WxREeGIAAAAJ&hl=en&oi=ao"
-  email            : "matthias_groeschel [at] hms.harvard.edu"
+  email            : "matthias_groeschel@hms.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
