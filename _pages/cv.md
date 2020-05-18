@@ -81,8 +81,8 @@ Teaching
   
 Awards
 ======
-1. 2019  Annual PhD Price, Research Center Borstel and Municipality of Bad Segeberg
-1. 2018  Annual Research Price, Hippocrates Foundation, Leiden, Netherlands 
-1. 2017  Best Translational Poster, Innate Immunity Symposium Freiburg, Germany
-1. 2014  Best M.sc. Thesis of the year, Alumni Association of the Faculty of Medicine, University of Groningen, Groningen, The Netherlands
+* 2019  Annual PhD Price, Research Center Borstel and Municipality of Bad Segeberg
+* 2018  Annual Research Price, Hippocrates Foundation, Leiden, Netherlands 
+* 2017  Best Translational Poster, Innate Immunity Symposium Freiburg, Germany
+* 2014  Best M.sc. Thesis of the year, Alumni Association of the Faculty of Medicine, University of Groningen, Groningen, The Netherlands
 
