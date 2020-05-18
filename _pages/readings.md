@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "readings"
+title: "Readings"
 permalink: /readings/
 author_profile: true
 ---
