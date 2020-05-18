@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthias Gröschel, MD PhD"
+title                    : "Matthias Gröschel"
 title_separator          : "-"
 name                     : &name "Matthias Gröschel, MD PhD"
 description              : &description "Research Fellow at Harvard Medical School"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthias Gröschel"
+  name             : "Matthias Gröschel, MD PhD"
   avatar           : "profile.png"
   bio              : "Research Fellow in Biomedical Informatics at Harvard Medical School"
   location         : "Boston, MA"
