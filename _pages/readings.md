@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Readings"
-permalink: /readings/
+permalink: https://mgro.github.io/readings
 redirect_from:
 	- /readings
 ---
