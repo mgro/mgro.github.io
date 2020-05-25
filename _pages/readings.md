@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Readings"
 permalink: https://mgro.github.io/readings
 redirect_from:
